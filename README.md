@@ -30,12 +30,12 @@
       <td align="center" width="25%">
         <h3>Backend</h3>
         <a href="https://www.mongodb.com/" target="_blank"><img src="https://profilinator.rishav.dev/skills-assets/mongodb-original-wordmark.svg" alt="MongoDB" height="50" /></a>
-        <a href="https://vitejs.com/" target="_blank"><img src="https://profilinator.rishav.dev/skills-assets/express-original-wordmark.svg" alt="Express.js" height="50" /></a>
+        <a href="https://vitejs.fr/" target="_blank"><img src="https://profilinator.rishav.dev/skills-assets/express-original-wordmark.svg" alt="Express.js" height="50" /></a>
         <a href="https://www.python.org/" target="_blank"><img src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="50" /></a>
       </td>
       <td align="center" width="25%">
         <h3>DevOps</h3>
-        <a href="https://www.jenkins.com/" target="_blank"><img src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" alt="Linux" height="50" /></a>
+        <a href="https://www.jenkins.io/" target="_blank"><img src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" alt="Linux" height="50" /></a>
         <a href="https://www.linux.org/" target="_blank"><img src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" alt="Linux" height="50" /></a>
         <a href="https://github.com/" target="_blank"><img src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" /></a>
         <a href="https://www.docker.com/" target="_blank"><img src="https://profilinator.rishav.dev/skills-assets/docker-original-wordmark.svg" alt="Docker" height="50" /></a>
